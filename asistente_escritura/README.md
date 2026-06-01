@@ -8,7 +8,7 @@ El asistente cuenta con tres funciones principales diseñadas para facilitar el 
 
 1. **Mejorar redacción y ortografía**: Permite pegar un texto existente para que la IA corrija errores gramaticales y mejore el estilo y fluidez del mismo.
 2. **Sugerir continuación**: Si te quedas sin ideas, puedes escribir el inicio de un texto y el asistente redactará el siguiente párrafo de forma coherente.
-3. **Escribir un texto desde cero**: Solo necesitas ingresar un tema (ej. "Un correo solicitando vacaciones") y seleccionar el tono deseado (Profesional, Casual, Creativo, Persuasivo). El modelo generará el texto completo por ti.
+3. **Escribir un texto desde cero**: Solo necesitas ingresar un tema (ej. "Un correo solicitando vacaciones") y seleccionar el tono deseado (Profesional, Casual, Creativo, Persuasivo, etc). El modelo generará el texto completo por ti.
 
 ## 🛠 Requisitos Previos
 
