@@ -1,3 +1,6 @@
+Debido a varias dificultades y errores con Google Gemini API se optó por otra alternativa
+
+
 🔧 Instrucciones de Instalación y Configuración
 Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
